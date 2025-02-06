@@ -1,0 +1,1 @@
+export { default as beautyImage } from './red.PNG';
